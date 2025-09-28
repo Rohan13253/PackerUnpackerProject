@@ -33,7 +33,7 @@ The project also features a **Graphical User Interface (GUI)** for user-friendly
 
 ## Future Scope
 - Add **encryption & decryption** features to enhance data security.
-- Integrate **compression** to reduce archive size (similar to ZIP/TAR).
+- Integrate **compression** to reduce archive size (similar to ZIP).
 - Improve GUI with **progress bars & logs** for better user experience.
 
 ---

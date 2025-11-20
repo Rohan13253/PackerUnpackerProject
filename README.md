@@ -55,4 +55,11 @@ $ java -cp out gui.PackerGui
 
 # Run Unpacker GUI
 $ java -cp out gui.UnpackerGui
+```
+
+## Packer Image
+<img width="1440" height="900" alt="Screenshot 2025-10-13 at 10 52 44 PM" src="https://github.com/user-attachments/assets/40d397bf-becd-45eb-8f59-9fbddcfd3bfa" />
+
+## Unpacker Image
+<img width="1440" height="900" alt="Screenshot 2025-10-13 at 10 53 23 PM" src="https://github.com/user-attachments/assets/0ed42c87-e7ca-4da3-9e7a-e2d2d32ca89f" />
 
